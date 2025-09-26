@@ -9,9 +9,11 @@ My CTF study notes, scripts and reports
 ---
 
 ## 📂 仓库结构
+```
 ctf-study/
 ├─ README.md # 仓库说明
 ├─ notes/ # 学习笔记（Markdown/PDF）
 ├─ scripts/ # 学习过程中的脚本
 ├─ reports/ # 题解、实验报告
 ├─ resources/ # 截图、参考资料
+```
